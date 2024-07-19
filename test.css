@@ -1,0 +1,28 @@
+.scratch-img {
+	max-width: 100%;
+	visibility: hidden;
+
+}
+
+.bg-color {
+background-color:#ffdcdc;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+
+  padding: 10px;
+padding-left:10%;
+ 
+}
+
+.text-prop {
+font-family: "Noto Serif KR", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+color:#D95859;
+text-align: center;
+}
+
